@@ -32,8 +32,8 @@
 - `yarn eslint --init`
 
 - ESLint와 Prettier 연결하여 ESLint 설정
-`npm install eslint-config-prettier --save-dev`
-`yarn add eslint-config-prettier --save-dev`
+  `npm install eslint-config-prettier --save-dev`
+  `yarn add eslint-config-prettier --save-dev`
 
 - ./.eslintrc.js 내용 수정 prettier 추가
 
